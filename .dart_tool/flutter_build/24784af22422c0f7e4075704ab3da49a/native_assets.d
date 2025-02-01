@@ -1,0 +1,1 @@
+ /Users/rameshvishwakarma/Developer/Code/Flutter\ /Clean\ Architecture/Project\ 1/assign/.dart_tool/flutter_build/24784af22422c0f7e4075704ab3da49a/native_assets.yaml: 
